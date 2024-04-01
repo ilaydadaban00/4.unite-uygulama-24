@@ -1,0 +1,10 @@
+C:\Users\Seyda\source\repos\4.unite uygulama 24_1\4.unite uygulama 24_1\bin\Debug\4.unite uygulama 24_1.exe.config
+C:\Users\Seyda\source\repos\4.unite uygulama 24_1\4.unite uygulama 24_1\bin\Debug\4.unite uygulama 24_1.exe
+C:\Users\Seyda\source\repos\4.unite uygulama 24_1\4.unite uygulama 24_1\bin\Debug\4.unite uygulama 24_1.pdb
+C:\Users\Seyda\source\repos\4.unite uygulama 24_1\4.unite uygulama 24_1\obj\Debug\4.unite uygulama 24_1.csproj.AssemblyReference.cache
+C:\Users\Seyda\source\repos\4.unite uygulama 24_1\4.unite uygulama 24_1\obj\Debug\_4.unite_uygulama_24_1.Form1.resources
+C:\Users\Seyda\source\repos\4.unite uygulama 24_1\4.unite uygulama 24_1\obj\Debug\_4.unite_uygulama_24_1.Properties.Resources.resources
+C:\Users\Seyda\source\repos\4.unite uygulama 24_1\4.unite uygulama 24_1\obj\Debug\4.unite uygulama 24_1.csproj.GenerateResource.cache
+C:\Users\Seyda\source\repos\4.unite uygulama 24_1\4.unite uygulama 24_1\obj\Debug\4.unite uygulama 24_1.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\4.unite uygulama 24_1\4.unite uygulama 24_1\obj\Debug\4.unite uygulama 24_1.exe
+C:\Users\Seyda\source\repos\4.unite uygulama 24_1\4.unite uygulama 24_1\obj\Debug\4.unite uygulama 24_1.pdb
